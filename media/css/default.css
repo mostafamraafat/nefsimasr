@@ -1,5 +1,7 @@
-.progress{
-	margin-top: 10px;
+.progress, .progress .bar{
+	
+	height: 25px;
+	line-height: 25px;
 }
 
 body {
@@ -17,4 +19,17 @@ padding: 40px 30px 30px 30px;
 
 .home_box {
 background: url(../img/eco/home_bg.jpg) no-repeat top left;
+}
+
+
+footer{
+background: url(../img/under_features_city.png) no-repeat top left;
+height: 310px;
+}
+
+.stats-table td{
+padding: 2px 2px;
+font-size: 11px;
+color: grey;
+background: #eee;
 }
