@@ -1,0 +1,20 @@
+.progress{
+	margin-top: 10px;
+}
+
+body {
+background-color: #C0E4F2;
+color: #754B23;
+}
+
+
+
+.home_box {
+width: 920px;
+height: 420px;
+padding: 40px 30px 30px 30px;
+}
+
+.home_box {
+background: url(../img/eco/home_bg.jpg) no-repeat top left;
+}
